@@ -26,6 +26,7 @@
 		DC265BEB2538D1D300029067 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC265BED2538D1D300029067 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC265BF42538D39900029067 /* MessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewController.swift; sourceTree = "<group>"; };
+		DCB452902538DFF400353C7C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		DC265BD32538D1D200029067 = {
 			isa = PBXGroup;
 			children = (
+				DCB452902538DFF400353C7C /* README.md */,
 				DC265BDE2538D1D200029067 /* ShowMe */,
 				DC265BDD2538D1D200029067 /* Products */,
 			);
